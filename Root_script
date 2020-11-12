@@ -1,0 +1,4 @@
+hadd gamma_MergeData.root data_20201*.root
+
+
+
